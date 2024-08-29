@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "936640580523",
+    "project_id": "spectranetv2",
+    "storage_bucket": "spectranetv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936640580523:android:21350d1d79c3aeaa3020ee",
+        "android_client_info": {
+          "package_name": "com.covalense.Spectranet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936640580523-g9eeluhrlasao091r6hdeb1o4uaq6f1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALk5gIokozl-O5O_jDyC5rpWm_vfYTQdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936640580523-g9eeluhrlasao091r6hdeb1o4uaq6f1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
